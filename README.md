@@ -87,4 +87,3 @@ ACS712 OUT → ESP32 ADC1_CH1
 ## Author
 
 Jagruti Kate
-Electronics and Telecommunication Engineering
